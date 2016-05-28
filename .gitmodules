@@ -1,0 +1,7 @@
+[submodule "util/nodemcu-uploader"]
+	path = util/nodemcu-uploader
+	url = https://github.com/kmpm/nodemcu-uploader.git
+	branch = master
+[submodule "dependencies/lunit"]
+	path = dependencies/lunit
+	url = http://repo.or.cz/lunit.git
