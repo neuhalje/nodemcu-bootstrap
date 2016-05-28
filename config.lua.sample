@@ -1,0 +1,9 @@
+-- file : config.lua
+local M = {}
+
+M.SSID = {}  
+M.SSID["my WIFIs SSID"] = "my wifis password"
+
+M.ID = node.chipid()
+
+return M  
